@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugene</h1>
 <h3 align="center">I am a frontend developer from Moscow</h3>
 
-- 🔭 I am currently working on a frontend for the application of the Department of the Moscow Aviation Institute [KAF-305SPA](https://kaf305-mai.web.app/#/)
+- 🔭 I am currently working on a frontend for the application of the Department of the Moscow Aviation Institute [KAF-305SPA](http://81.163.26.156:8080/#/)
 
 - 🌱 I’m currently learning **backend on Nest js**
 
