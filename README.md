@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on a frontend for the application of the Department of the Moscow Aviation Institute
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **react or vue**
 
