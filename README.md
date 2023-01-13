@@ -9,8 +9,7 @@
 
 <br />
 
-  <img align="left" alt="GIF" src="https://www.codewars.com/users/NZ-WEB/badges/large" width="400" height="40" />
-<br/>
+
 
 Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I enjoy eating food and play volleyball.
 
@@ -38,6 +37,7 @@ Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></code>
+  <img align="left" alt="GIF" src="https://www.codewars.com/users/NZ-WEB/badges/micro" width="120" height="20" />
 
 
 
