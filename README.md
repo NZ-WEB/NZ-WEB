@@ -51,13 +51,6 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-  
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-Telegram: @nzweb
-</p>
 
