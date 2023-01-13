@@ -3,9 +3,14 @@
   <img align="left" alt="Eugene in Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
+
+  <img align="left" alt="GIF" src="https://www.codewars.com/users/NZ-WEB/badges/large" width="400" height="40" />
+<br/>
 
 Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I enjoy eating food and play volleyball.
 
@@ -34,7 +39,6 @@ Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I
 <code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></code>
 
-  <img align="right" alt="GIF" src="https://www.codewars.com/users/NZ-WEB/badges/large" width="400" height="40" />
 
 
 
