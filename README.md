@@ -1,11 +1,7 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://t.me/nzweb">
-  <img align="left" alt="Eugene in Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Eugene</h1>
+<h4 align="center">a fullstack engineer from moscow</h4>
+</div>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
