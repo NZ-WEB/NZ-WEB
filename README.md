@@ -39,9 +39,4 @@ Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I
 Telegram: @nzweb
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nz-web&show_icons=true&locale=en&layout=compact" alt="nz-web" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nz-web&show_icons=true&locale=en" alt="nz-web" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nz-web&" alt="nz-web" /></p>
