@@ -52,5 +52,6 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nz-web&show_icons=true&theme=transparent)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nz-web&langs_count=5&theme=tokyonight)]()
 
 
