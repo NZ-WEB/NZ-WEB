@@ -34,6 +34,8 @@ Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I
 <code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></code>
 
+<ing src="https://www.codewars.com/users/NZ-WEB/badges/large" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
