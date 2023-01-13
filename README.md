@@ -51,7 +51,4 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NZ-WEB&show_icons=true&theme=transparent)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NZ-WEB&langs_count=5&theme=tokyonight)]()
-
 
