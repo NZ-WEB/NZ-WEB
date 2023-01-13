@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Eugene</h1>
-<h4 align="center">a fullstack engineer from moscow</h4>
+<h4 align="center">a Full Stack Developer 🚀 from Russia. Beside's programming, I enjoy eating food and play volleyball.
+</h4>
 </div>
 
 <div align="center">
@@ -11,7 +12,6 @@
 
 
 
-Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I enjoy eating food and play volleyball.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -47,4 +47,3 @@ Hi, I'm Eugene, a Full Stack Developer 🚀 from Russia. Beside's programming, I
 Telegram: @nzweb
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nz-web&" alt="nz-web" /></p>
