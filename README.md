@@ -1,11 +1,23 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Eugene</h1>
-  <h4 align="center">A Full Stack Engineer from Russia.</h4>
+  <h1>Hi, I'm Eugene</h1>
+  <h4>Software Engineer</h4>
 </div>
 
-I am passionate about crafting efficient software architectures and tackling optimization challenges. My focus is on enhancing and simplifying business operations by implementing strategic and optimal solutions, driving both performance and growth.
+I design and build high‑performing, scalable systems with clean, maintainable architectures. Currently, I work as a Senior Frontend Engineer at Magnit Omni, where I lead initiatives that simplify complex business workflows, optimize performance, and elevate engineering culture across teams.
 
+Core strengths:
+- System design and architecture for complex, distributed applications
+- Team leadership, mentoring, and engineering culture development
+- Performance optimization and pragmatic, business‑oriented solutions
 
+Frontend stack:
+- Vue 3, TanStack Query, Pinia, SSR, Nuxt/astro/vike
+- Also experienced with React and Angular
+- Docker, Kubernetes for development and deployment
 
+Backend & infrastructure:
+- Go, Node.js
+- gRPC, REST
+- PostgreSQL, Redis, Kafka
 
-
+I care about clarity, reliability, and speed—from API contracts and data flows to DX and shipping value efficiently.
